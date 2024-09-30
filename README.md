@@ -23,4 +23,4 @@ Följ dessa steg för att köra projektet lokalt:
 
 1. **Klona repositoryt**:
    ```bash
-   git clone https://github.com/sanJuan99/mitt-projekt.git
+   git clone https://github.com/SanJuan99/my-cv-app.git
